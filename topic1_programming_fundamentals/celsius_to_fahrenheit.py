@@ -3,4 +3,4 @@
 
 C = int(input('Enter temperature in Celsius units. '))
 F = (9 / 5) * C + 32
-print(F)
+print(str(F) + " degrees fahrenheit")
